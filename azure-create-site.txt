@@ -1,0 +1,1 @@
+azure site create NodeWebSite150515 --github --githubrepository stefanvn/azure-app-service-demo --subscription d65739dc-9fcb-4466-b789-9e7170e0abef
